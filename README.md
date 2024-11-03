@@ -1,6 +1,12 @@
 # iOS-Mac-App-support
 iOS and Mac App support
 
+This APP provides easy-to-use location attendance or location dynamic check-in for small businesses, small companies, small teams and family members, and records the dynamic changes of all personnel's attendance location.
+The data storage cloud is safe and worry-free, and the administrator does not have the permission to modify the dynamic check-in data of any location.
+
+The dynamic check-in data of all personnel is synchronized in real time, and the manager can check the data at a glance.
+
+
 ![iTunesArtwork@2x](https://github.com/user-attachments/assets/fd2bc5d2-8652-4bfb-8bea-fdf9cce6a34f)
 
 <img width="559" alt="截屏2024-11-01 21 48 04" src="https://github.com/user-attachments/assets/d5863904-a45f-429d-9644-99d0ad3bec8e">
