@@ -1,5 +1,8 @@
 # iOS-Mac-App-support
 iOS and Mac App support
+
+![iTunesArtwork@2x](https://github.com/user-attachments/assets/fd2bc5d2-8652-4bfb-8bea-fdf9cce6a34f)
+
 <img width="559" alt="截屏2024-11-01 21 48 04" src="https://github.com/user-attachments/assets/d5863904-a45f-429d-9644-99d0ad3bec8e">
 <img width="559" alt="截屏2024-11-01 21 47 06" src="https://github.com/user-attachments/assets/fd93f73b-a0d4-4daf-beed-51e56655f0bb">
 <img width="559" alt="截屏2024-11-01 21 47 00" src="https://github.com/user-attachments/assets/9e97afe9-2c85-4431-86d4-e05a58dfebb6">
